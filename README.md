@@ -1,2 +1,2 @@
 # hello-world
-the first try
+i haven't use Git before, everything seems interesting here!
